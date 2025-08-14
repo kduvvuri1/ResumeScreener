@@ -101,6 +101,7 @@ graph TD
 ├── templates/          #HTML templates
 ├── requirements.txt    #Dependencies
 └── UpdatedResumeDataSet.csv  #Training data
+└── Resume Screening with Python.ipynb  #Jupyter Notebook with workflow and examples
 ```
 
 ### 💻 How to Run
